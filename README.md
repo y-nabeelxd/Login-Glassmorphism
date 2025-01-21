@@ -22,7 +22,7 @@ A modern login page designed with HTML and CSS, implementing a glassmorphism eff
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     Download
   </button>
-</a><a href="https://y-nabeelxd.github.io/y-nabeelxd/Pvt-Files/Demo/Login-Glassmorphism">
+</a> | <a href="https://y-nabeelxd.github.io/y-nabeelxd/Pvt-Files/Demo/Login-Glassmorphism">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     Live Demo
   </button>
