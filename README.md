@@ -16,7 +16,7 @@ A modern login page designed with HTML and CSS, implementing a glassmorphism eff
 
 ## Download
 
-`Click the link below and select "Save Link As..." to download the source code:`
+`Click the link below and select "Save Link As..." to download the source code`
 
 <a href="https://raw.githubusercontent.com/y-nabeelxd/Login-Glassmorphism/main/index.html">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
