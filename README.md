@@ -18,8 +18,18 @@ A modern login page designed with HTML and CSS, implementing a glassmorphism eff
 
 Click the button below to download the source code:
 
-<a href="https://raw.githubusercontent.com/y-nabeelxd/Login-Glassmorphism/main/index.html" download>
+<a href="https://raw.githubusercontent.com/y-nabeelxd/Login-Glassmorphism/main/index.html" onclick="downloadFile(event)">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    Download Here
+    Download
   </button>
 </a>
+
+<script>
+  function downloadFile(event) {
+    event.preventDefault();
+    const link = document.createElement('a');
+    link.href = "https://raw.githubusercontent.com/y-nabeelxd/Login-Glassmorphism/main/index.html";
+    link.download = "index.html"; // Provide a default file name
+    link.click();
+  }
+</script>
