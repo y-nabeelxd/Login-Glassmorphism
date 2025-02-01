@@ -26,4 +26,9 @@ A modern login page designed with HTML and CSS, implementing a glassmorphism eff
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     Live Demo
   </button>
+</a> | <a href="https://github.com/y-nabeelxd/Login-Glassmorphism-Modifyed">
+  <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    Modifyed Version
+  </button>
 </a>
+
